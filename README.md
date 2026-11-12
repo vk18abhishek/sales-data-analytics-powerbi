@@ -372,4 +372,5 @@ Business Intelligence Dashboard looks like this:
 - The payment mode analysis compares order volume and revenue across UPI, Card, Cash and Net Banking, while the regional visuals show how payment activity varies across the four regions.
 - Product-wise sales, profit and margin charts help compare product performance and identify differences in revenue generation and profitability.
 
-
+  **Abhishek Kumar**  
+Github:  [https://github.com/vk18abhishek] (https://github.com/vk18abhishek/sales-data-analytics-powerbi)
